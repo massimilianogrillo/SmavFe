@@ -1,0 +1,39 @@
+/*.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+.search-form {
+  background: rgba(255, 255, 255, 1);
+  position: relative;
+  border-radius: $border-radius-large;
+  margin-right: $gutter;
+  display: block;
+  max-width: 500px;
+  min-width:150px;
+  width:100%;
+}
+
+input {
+  font-size: 1rem;
+  padding: .95rem .75rem;
+  z-index: 2;
+  cursor: text;
+  text-indent: 30px;
+  border: none;
+  background: transparent;
+  width: 100%;
+  outline: 0;
+}
+
+.material-icons {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  margin-top: -12px;
+  color: rgba(mat-color($foreground, base), 0.87);
+}*/

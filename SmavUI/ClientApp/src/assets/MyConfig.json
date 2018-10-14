@@ -1,0 +1,4 @@
+{
+  "api_root_user": "http://localhost:35661/api/",
+  "users_api": "/users"
+}
